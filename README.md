@@ -1,4 +1,4 @@
-# image-style-transfer-perserving-color
+# image-style-transfer-persevrving-color
 
 ## requirement:
   * tensorflow
@@ -7,7 +7,7 @@
 
 ## usage
 
-**python main.py --content** *content image path* **--style** *style image path* **--output** *otput path* **--p** *the method of perserving color*
+**python main.py --content** *content image path* **--style** *style image path* **--output** *otput path* **--p** *the method of persevrving color*
 
 **--p**
  * **histogram_match** *color histogram match method*
