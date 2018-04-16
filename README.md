@@ -5,7 +5,7 @@
   * numpy
   * scipy
 
-## usage
+## usage:
 
 **python main.py --content** *content image path* **--style** *style image path* **--output** *otput path* **--p** *the method of persevrving color*
 
